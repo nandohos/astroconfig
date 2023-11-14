@@ -26,7 +26,8 @@ return {
 
   -- Set colorscheme to use
   --colorscheme = "tokyonight-storm",
-  colorscheme = "catppuccin-macchiato",
+  --colorscheme = "catppuccin-macchiato",
+  colorscheme = "kanagawa",
 
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on

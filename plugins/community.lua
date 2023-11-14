@@ -18,6 +18,13 @@ return {
       transparent = true,
     }
   },
+  { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  {
+    "kanagawa.nvim",
+    opts = {
+      transparent = true,
+    }
+  },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.media.presence-nvim" },
